@@ -5,13 +5,13 @@
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=27&duration=2400&pause=900&color=8AB8DC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+wuxuan+%E2%9C%A8;CS+Student+%C2%B7+AI+Builder+%C2%B7+Product;Building+something+interesting...+%F0%9F%A7%B8;Always+curious%2C+always+creating.+%F0%9F%8C%B1"
+  src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=27&duration=2400&pause=900&color=F3B8CE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+wuxuan+%E2%9C%A8;CS+Student+%C2%B7+AI+Builder+%C2%B7+Product;Building+something+interesting...+%F0%9F%A7%B8;Always+curious%2C+always+creating.+%F0%9F%8C%B1"
   alt="wuxuan typing introduction"
 />
 
 <br>
 
-<sub>learning · building · creating · still evolving ✿</sub>
+<sub>🌸 learning · building · creating · evolving 🩵</sub>
 
 </div>
 
