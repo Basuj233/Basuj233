@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="wuxuan banner" />
+<img src="https://raw.githubusercontent.com/Basuj233/Basuj233/main/assets/banner.png" width="100%" alt="wuxuan banner" />
 
 <br><br>
 
